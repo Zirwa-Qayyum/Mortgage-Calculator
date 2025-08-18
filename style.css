@@ -1,0 +1,137 @@
+*{
+    margin:0px;
+    padding:0px;
+
+}
+body{
+    background-color: lightblue;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.first{
+   
+    background-color: azure;
+    height:500px;
+    width:350px;
+    border-top-left-radius: 20px;
+     border-bottom-left-radius: 20px;
+    
+}
+.second{
+    display:flex;
+     margin-left: 20px;
+     margin-top: 20px;
+}
+span{
+    margin-top: 9px;
+    margin-left: 50px;
+     margin-right: 5px;
+     color:grey;
+}
+
+ h3{
+margin-top: 20px;
+margin-left: 30px;
+color:grey;  
+}
+.set{
+    display:flex;
+     margin-left: 30px;
+     margin-top: 10px;
+    border-radius:5px;
+}
+.fourth{
+
+    height:28px;
+    width:25px;
+    padding-top:10px ;
+    padding-left: 10px;
+    border-radius:2px;
+    background-color: lightblue;
+}
+.fifth input{
+   
+    height:33px;
+    width:250px;
+}
+.next{
+display:flex;
+justify-content:space-evenly;
+margin-top:10px;
+}
+.step{
+     display:flex;
+     padding-left: 15px;
+     padding-top: 10px;
+    border-radius:5px;
+}
+.sixth input{
+    margin-left: 30px;
+   width:80px;
+}
+.seventh{
+    background-color: lightblue;
+}
+.eight input{
+    margin-left:65px;
+    width:80px;
+}
+.new{
+    margin-top: 20px;
+margin-left: 20px;
+color:grey; 
+}
+.radio-box {
+    width:250px;
+      border: 2px solid #ccc;
+      padding: 10px 15px;
+      border-radius: 8px;
+      display:inline-block;
+      background-color: #f9f9f9;
+     margin-left: 35px;
+     margin-top: 20px;
+    }
+.end{
+   width:250px;
+      border: 2px solid #ccc;
+      padding: 10px 15px;
+      border-radius: 8px;
+      display:inline-block;
+      background-color: #f9f9f9;
+     margin-left: 35px;
+     margin-top: 20px;
+     background-color:burlywood;
+}
+
+.another{
+    background-color:indigo;
+    height:500px;
+    width:400px;
+    border-bottom-right-radius: 20px;
+      border-top-right-radius: 20px;
+}
+.add{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height:200px;
+    width:200px;
+    background-image: url("illustration-empty.svg");
+    background-size: cover;    
+     margin-left: 100px;
+     margin-top: 90px;
+     margin-right: 50px;
+}
+.ohh{
+
+     margin-top: 15px;
+     text-align: center;
+     color:white;
+}
+.final{
+    color:#ccc;
+    margin-top: 15px;
+    margin-left: 20px;
+}
